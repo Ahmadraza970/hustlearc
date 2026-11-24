@@ -17,7 +17,7 @@ A habit tracker built for the Winter Arc 2026 challenge. Free · Offline · No a
 ## 📥 Get the app
 
 - **Web app (works on any phone or computer):** [hustlearc.vercel.app](https://hustlearc.vercel.app)
-- **Android APK:** [Download HustleArc.apk](https://github.com/Ahmadraza970/hustlearc/raw/refs/heads/main/HustleArc.apk)
+- **Android APK:** [Download HustleArc.apk (v1.2.2, 224 KB)](https://github.com/Ahmadraza970/hustlearc/raw/refs/heads/main/HustleArc.apk)
 
 > Android will ask you to allow installing from your browser/files app — that's normal for a direct APK install.
 
